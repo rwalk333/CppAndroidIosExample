@@ -11,6 +11,7 @@
 
 #include <iostream>
 
+
 const char* concateneMyStringWithCppString(const char* myString);
 
 #endif /* defined(__HelloCpp__Core__) */
